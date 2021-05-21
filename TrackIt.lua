@@ -22,9 +22,6 @@ local function TrackItHandler(name)
     else
         local macroId = CreateMacro("TrackIt", "INV_MISC_QUESTIONMARK", tar .. "\n" .. spell, nil)
     end
-
-    message(tar .. "\n" .. spell)
-
 end
 
 SlashCmdList["TRACKIT"] = TrackItHandler
