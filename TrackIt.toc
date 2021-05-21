@@ -1,0 +1,7 @@
+## Interface: 20501
+## Title: TrackIt
+## Notes: Create macro which target the PnJ/mob you want.
+## Author: Hoïnart
+## Version: 0.0.1
+
+TrackIt.lua
