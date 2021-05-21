@@ -8,7 +8,7 @@ local function TrackItHandler(name)
     local spell = "/startattack"
     local spellByClass = {
         ["SHAMAN"] = "Horion de terre",
-        ["MAGE"] = "Trait de flamme"
+        ["MAGE"] = "Trait de feu"
     }
     
     if(string.len(spellByClass[englishClass]) > 0) then
